@@ -5,16 +5,6 @@ import products from "@/data/products.json";
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50">
-      <header className="bg-white border-b border-gray-100 shadow-sm">
-        <div className="max-w-6xl mx-auto px-4 py-5 flex items-center justify-between">
-          <div>
-            <span className="text-xl font-bold text-blue-600">Fin</span>
-            <span className="text-xl font-bold text-gray-800">sight</span>
-          </div>
-          <p className="text-sm text-gray-500">Порівняння фінансових продуктів</p>
-        </div>
-      </header>
-
       <main className="max-w-6xl mx-auto px-4 py-10">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900">Кредити</h1>
