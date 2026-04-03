@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Кредит на все",
+    "bank": "ПриватБанк",
+    "type": "credit",
+    "interestRate": 19.9,
+    "minAmount": 1000,
+    "maxAmount": 200000,
+    "termMonths": 60,
+    "description": "Споживчий кредит без застави для будь-яких потреб"
+  },
+  {
+    "id": "2",
+    "name": "Готівка від Моно",
+    "bank": "monobank",
+    "type": "credit",
+    "interestRate": 15.5,
+    "minAmount": 5000,
+    "maxAmount": 500000,
+    "termMonths": 84,
+    "description": "Кредит готівкою з мінімальним пакетом документів"
+  },
+  {
+    "id": "3",
+    "name": "Швидкий кредит",
+    "bank": "Ощадбанк",
+    "type": "credit",
+    "interestRate": 22.0,
+    "minAmount": 2000,
+    "maxAmount": 100000,
+    "termMonths": 36,
+    "description": "Оформлення за 15 хвилин, без довідки про доходи"
+  },
+  {
+    "id": "4",
+    "name": "Кредит Плюс",
+    "bank": "Укрсиббанк",
+    "type": "credit",
+    "interestRate": 17.8,
+    "minAmount": 10000,
+    "maxAmount": 300000,
+    "termMonths": 48,
+    "description": "Вигідна ставка для клієнтів з позитивною кредитною історією"
+  },
+  {
+    "id": "5",
+    "name": "Кредит Мрія",
+    "bank": "Райффайзен Банк",
+    "type": "credit",
+    "interestRate": 16.9,
+    "minAmount": 5000,
+    "maxAmount": 400000,
+    "termMonths": 72,
+    "description": "Кредит на великі покупки зі зниженою ставкою та гнучким графіком"
+  }
+]
